@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: SplitVent website
+title: Background
 
 # Short description of your site
 description: Information about the SplitVent project
@@ -20,11 +20,13 @@ description: Information about the SplitVent project
 
 # List of links in the navigation bar
 navbar-links:
+  Stages:
+    - Simulation: "stage1"
+    - Development: "stage2"
+    - Practical: "stage3"
+    - Implementation: "stage4"
   Blog: "blog"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-
+ 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/split-icon.svg"
