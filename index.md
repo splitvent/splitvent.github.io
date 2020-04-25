@@ -19,11 +19,3 @@ We have established an international project team with experts in the fields of 
 
 {% include readnext.html text="Stage 1" url="/stage1/" %}
 
-<p style="text-align: center">
-A joint project between King's College London and Imperial College London
-<br />
-<br />
-
-<img src="/img/kings-logo.png" alt="King's Logo" width="250px" />
-<img src="/img/imperial-logo.png " alt="Imperial Logo" width="250px" />
-</p>

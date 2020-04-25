@@ -1,7 +1,10 @@
 <footer>
   <div class="container beautiful-jekyll-footer">
     <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <div class="col-lg-2 col-md-3">
+        <img src="/img/kings-logo.png" alt="King's Logo" width="175px" />
+      </div>
+      <div class="col-lg-8 col-md-6">
         <ul class="list-inline text-center footer-links">
           {%- for link in site.social-network-links -%}
             {%- assign curkey = link[0] -%}
@@ -41,11 +44,13 @@
         {% endif %}
       {% endif%}
       </p>
-          <!-- Please don't remove this, keep my open source work credited :) -->
-    <p class="theme-by text-muted">
-      Theme by
-      <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-    </p>
+      <p class="theme-by text-muted">
+        A joint project between King's College London and Imperial College London.
+        <br /><br />
+      </p>
+      </div>
+      <div class="col-lg-2 col-md-3">
+        <img src="/img/imperial-logo.png " alt="Imperial Logo" width="175px" />
       </div>
     </div>
   </div>
