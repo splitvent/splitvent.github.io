@@ -45,6 +45,7 @@ hr.small {
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
+  color: #0085A1;
 }
 
 .main-content {
@@ -477,6 +478,7 @@ footer .theme-by {
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 50px;
+  color: #0085A1;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
