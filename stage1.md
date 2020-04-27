@@ -12,5 +12,14 @@ You can read the [pre-print of our paper](http://www.medrxiv.org/content/10.1101
 submitted to Royal Society of Science for peer review. 
 We used this model to demonstrate use of both the previously suggested basic Y connector splitter and our modified splitter. The model showed that using the modified setup, we can demonstrate that it is possible to achieve the same tidal volumes in 2 patients with mismatched lung compliances and that tidal volume of one patient can be manipulated independently of the other.
 
+### Circuit design
+
+#### Standard
+![](/img/simmodel_standard.png)
+
+#### Modified
+![](/img/simmodel_modified.png)
+
+
 {% include readnext.html text="Stage 2" url="/stage2/" %}
 
