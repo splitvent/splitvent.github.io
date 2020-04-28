@@ -17,5 +17,9 @@ The aim of this work is to develop a 3D-printable splitter which allows two pati
 
 We have established an international project team with experts in the fields of computational fluid dynamics, 3D printing, intensive care, anaesthesiology and medical physics. The project will be conducted in 4 stages, with decisions made at the end of each stage to guide progression to the next.
 
+### Disclaimer
+
+“Although the aim of this group is to investigate the possibility and plausibly of ventilating two patients with one ventilator, to be absolutely clear the ventilation of two patients using one ventilator is strongly advised against if any alternate options are available.”
+
 {% include readnext.html text="Stage 1" url="/stage1/" %}
 
