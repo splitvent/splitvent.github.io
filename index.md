@@ -21,5 +21,7 @@ We have established an international project team with experts in the fields of 
 
 ##### Disclaimer
 
+<p class="text-muted">
 “Although the aim of this group is to investigate the possibility and plausibly of ventilating two patients with one ventilator, to be absolutely clear the ventilation of two patients using one ventilator is strongly advised against if any alternate options are available.”
+</p>
 
