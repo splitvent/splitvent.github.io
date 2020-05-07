@@ -4,7 +4,7 @@ title: Stage 1
 subtitle: Simulation model development
 ---
 
-We designed an electrical circuit as an analogue to the ventilator, this simulated connecting the ventilator to the two patients and the lungs of each patient. In mapping from the air flow to an electrical circuit we equate volume to charge, flow to current, pressure to voltage, resistance to resistance and compliance to capacitance. We will use this model to test the splitter in various different configurations and can simulate varying physiology and disease process (varying compliance/ resistance) in the 2 lung models.
+We have designed an electrical circuit as an analogue to the ventilator, simulating ventilator splitting. In mapping air flow to an electrical circuit we equate volume to charge, flow to current, pressure to voltage, resistance to resistance and compliance to capacitance. We will use this model to test ventilator splitting in various different configurations whilst varying lung physiology and disease processes (varying compliance/resistance) in the 2 lung models.
 
 ### Results so far
 
