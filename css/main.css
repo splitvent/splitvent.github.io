@@ -48,6 +48,12 @@ hr.small {
   color: #0085A1;
 }
 
+fig {
+  font-size: 90%;
+  font-style: italic;
+  text-align: center;
+}
+
 .main-content {
   padding-top: 80px;
 }
