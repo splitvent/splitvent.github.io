@@ -19,7 +19,7 @@ We have established a cross discipline project team with experts in the fields o
 
 {% include readnext.html text="Stage 1" url="/stage1/" %}
 
-### Funding
+##### Funding
 This work is supported by a CME Covid-19 Pump Priming Award from the Wellcome/EPSRC Centre for Medical Engineering \[WT 203148/Z/16/Z\]
 
 ##### Disclaimer
