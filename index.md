@@ -19,6 +19,9 @@ We have established a cross discipline project team with experts in the fields o
 
 {% include readnext.html text="Stage 1" url="/stage1/" %}
 
+### Funding
+This work was supported by the Wellcome/EPSRC Centre for Medical Engineering \[WT 203148/Z/16/Z\]
+
 ##### Disclaimer
 
 <p class="text-muted">
