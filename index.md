@@ -21,6 +21,8 @@ The aim of this work is to develop a 3D-printable splitter which allows two pati
 We have established a cross discipline project team with experts in the fields of computational fluid dynamics, 3D printing, intensive care, anaesthesiology and medical physics. The project will be conducted in 4 stages, as outlined in the subsequent sections.
 
 ### Funding
+
+<img src="/img/wellcome-logo.png" style="float: left; padding-right: 16pt;" />
 This work is supported by a CME Covid-19 Pump Priming Award from the Wellcome/EPSRC Centre for Medical Engineering \[WT 203148/Z/16/Z\]
 
 {% include readnext.html text="Stage 1" url="/stage1/" %}
