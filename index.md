@@ -9,8 +9,6 @@ A particular concern is the limited ventilator capacity to deal with the numbers
 
 The idea of sharing a ventilator between varying numbers of patients has been proposed previously (relating to trauma victims) and also again during the current pandemic, where it has been tested in Italy. Despite this it has not been widely adopted and has raised a number of concerns, especially around the inability to effectively ventilate patients with differing lung physiology who will require differing ventilation parameters. 
 
-![](/img/problem-graphic.png)
-
 
 ### Aim
 
