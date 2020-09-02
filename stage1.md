@@ -10,8 +10,8 @@ We have designed an electrical circuit as an analogue to the ventilator, simulat
 
 ### Results so far
 
-You can read the [pre-print of our paper](http://www.medrxiv.org/content/10.1101/2020.04.07.20056309v1),
-submitted to Royal Society of Science for peer review. 
+You can read the [publication](https://royalsocietypublishing.org/doi/10.1098/rsos.200585),
+in Royal Society Open Science. 
 We used this model to demonstrate use of both the previously suggested basic Y connector splitter and our modified splitter. The model showed that using the modified setup, we can demonstrate that it is possible to achieve the same tidal volumes in 2 patients with mismatched lung compliances and that tidal volume of one patient can be manipulated independently of the other.
 
 The simulation files and documentation can be found in our
