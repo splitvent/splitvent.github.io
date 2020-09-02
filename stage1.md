@@ -25,6 +25,8 @@ The simulation files and documentation can be found in our
 #### Modified
 ![](/img/simmodel_modified.png)
 
+Solís-Lemus JA, Costar E, Doorly D, Kerrigan EC, Kennedy CH, Tait F, Niederer S, Vincent PE and Williams SE. A simulated single ventilator/dual patient ventilation strategy for acute respiratory distress syndrome during the COVID-19 pandemic. R Soc open sci 2020; 7: 200585
+
 
 {% include readnext.html text="Stage 2" url="/stage2/" %}
 
