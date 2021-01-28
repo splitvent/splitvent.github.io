@@ -23,5 +23,7 @@ Based on the identified patient parameters, we use model predictive control to d
 ![](/img/2Patient_Controlled_withAS_Flow.png)
 <fig>Figure 3: Two patient flow control with adjustable tube section</fig>
 
+Kerrigan EC, Nie Y, Faqir O, Kennedy CH, Niederer SA, Solís-Lemus JA, Vincent P and Williams SE. Direct transcription for dynamic optimization: a tutorial with a case study on dual-patient ventilation during the Covid-19 pandemic. 2020 59th IEEE Conference on Decision and Control (CDC). doi.org/10.1109/CDC42340.2020.9304378
+
 {% include readnext.html text="Stage 3" url="/stage3/" %}
 
